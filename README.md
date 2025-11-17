@@ -71,5 +71,3 @@
 - **PHP 7.4+** (Disarankan PHP 8.0+)
 - **MySQL / MariaDB** (via XAMPP/Laragon/MAMP)
 - **Git**
-
-1. **Clone Repository**
