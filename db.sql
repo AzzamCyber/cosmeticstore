@@ -1,0 +1,1 @@
+ALTER TABLE orders ADD COLUMN phone VARCHAR(20) AFTER address;
